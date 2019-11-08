@@ -17,5 +17,10 @@
         "psr-4": {
             "groovygoogleauth\\src\\": ""
         }
+    },
+    "extra": {
+        "branch-alias": {
+            "version": "v1-dev"
+        }
     }
 }
